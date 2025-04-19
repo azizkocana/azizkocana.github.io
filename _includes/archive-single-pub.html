@@ -14,13 +14,13 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <li>
-      <p class="archive__item-excerpt" itemprop="description" style="margin-bottom: 0">
+    <li style="margin-bottom: 0px; padding-bottom: 0;">
+      <p class="archive__item-excerpt" itemprop="description" style="margin-top: 0px; margin-bottom: 0px;"> 
         <font size="4">
           {{post.author}}, ({{ post.year }}), {{ post.title }}, {{post.venue}}, {{post.volume}} {{post.pages}}
         </font>
-      </p> 
-      <p class="archive__item-excerpt" itemprop="description" style="margin-bottom: 0">
+      <!--</p> 
+      <p class="archive__item-excerpt" itemprop="description" style="margin-bottom: 0">-->
         <font size="4">
           {% if post.paper-link %}
           <a href="{{post.paper-link}}">document</a>
