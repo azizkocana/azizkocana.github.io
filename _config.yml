@@ -25,6 +25,7 @@ author:
   location         : #"Location"
   orcid            : #""
   employer         : "Analog Devices Inc."
+  employer-site    : "https://www.analog.com/en/who-we-are.html"
   email            :  "azizkocana@gmail.com"
   uri              :
 
