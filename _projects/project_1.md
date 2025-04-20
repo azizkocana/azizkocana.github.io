@@ -10,5 +10,5 @@ I developed regularization learning project end-to-end, introducing a physiologi
 ![Kidney Rec](/files/proj_1/kidney.gif)
 ---
 ![Aorta Rec](/files/proj_1/aorta.gif)
-**Figure:** Top and bottom rows show reconstructions of aorta and kidney slices, respectively. The first column displays deep-image-prior results, while columns 2–6 show temporal TV-regularized compressed sensing reconstructions with increasing regularization. 
+**Figure:** Top and bottom rows show reconstructions of aorta and kidney slices, respectively (approvals granted by IRB). The first column displays deep-image-prior results, while columns 2–6 show temporal TV-regularized compressed sensing reconstructions with increasing regularization.
 
